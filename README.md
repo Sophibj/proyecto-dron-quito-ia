@@ -192,6 +192,3 @@ La automatización de sistemas de entrega podría afectar empleos relacionados c
 
 5. Uso responsable de inteligencia artificial  
 Los sistemas de IA deben diseñarse de forma transparente, segura y auditables.
-
-Instalar dependencias con:
-# Estructura del proyecto
